@@ -1,3 +1,4 @@
+# 4. Contar cuántas vocales tiene una palabra.
 word = input("Ingrese la palabra: ")
 count_vocals = 0 
 vocal = "aeiouAEIOU"

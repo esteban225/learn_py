@@ -1,3 +1,5 @@
+#2. Determinar el mayor de tres números.
+
 a = int(input("Intengresa un numero: "))
 b = int(input("Intengresa un numero: "))
 c = int(input("Intengresa un numero: "))

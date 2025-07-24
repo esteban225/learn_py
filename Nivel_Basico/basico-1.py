@@ -1,3 +1,5 @@
+#1. Determinar si un número es par o impar.
+
 num = int(input("Ingrese el numero: "))
 
 if num % 2 == 0 :

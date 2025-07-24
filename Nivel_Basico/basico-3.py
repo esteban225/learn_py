@@ -1,3 +1,4 @@
+# 3. Calcular la suma de los primeros N números naturales.
 num = int(input("Ingrese la cantidad de numeros naturales que quieres sumar: "))
 result = 0
 for i in range(num + 1 ):
