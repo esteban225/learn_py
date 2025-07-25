@@ -16,4 +16,8 @@ if a != b and a != c and b != c:
         else: 
             print("Error al comparar los numeros.")
 else:
+
     print("Ingresa 3 numeros diferentes.") 
+    # te amo amor 
+    #Como estás 
+    

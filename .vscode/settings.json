@@ -1,4 +1,11 @@
 {
 "python.formatting.provider": "autopep8",
-"editor.formatOnSave": true
+"editor.formatOnSave": true,
+"python.testing.pytestArgs": [
+    "Nivel_Medio"
+],
+"python.testing.unittestEnabled": false,
+"python.testing.pytestEnabled": true,
+"docwriter.language": "English",
+"docwriter.style": "Google"
 }
